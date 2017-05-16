@@ -57,7 +57,7 @@ lab:
     color: "#fff"
 
 form_submission:
-  action: http://formspree.io/
+  action: https://formspree.io/
   email: leek2@ohio.edu
 form:
   background:
