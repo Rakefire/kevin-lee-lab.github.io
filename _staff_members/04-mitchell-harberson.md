@@ -1,5 +1,6 @@
 ---
 name: Mitchell Harberson
-title: Undergraduate
+role_title: Undergraduate
 image: Harberson_Michael_2017.jpg
+email:
 ---

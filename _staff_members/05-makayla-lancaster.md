@@ -1,5 +1,6 @@
 ---
 name: Makayla Lancaster
-title: Undergraduate
+role_title: Undergraduate
 image: Lancaster_Makayla_2016.jpg
+email:
 ---
