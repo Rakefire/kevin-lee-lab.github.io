@@ -1,6 +1,7 @@
 ---
 name: Andrew Colborn
-role_title:
+role_title: Undergraduate
 image:
 email:
 ---
+
