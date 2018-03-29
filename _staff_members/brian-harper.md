@@ -1,6 +1,6 @@
 ---
 name: Brian Harper
-role_title:
+role_title: Undergraduate
 image:
 email:
 ---
