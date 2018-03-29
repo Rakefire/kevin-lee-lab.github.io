@@ -1,4 +1,0 @@
----
-title: Lauren Guest
-date:
----
