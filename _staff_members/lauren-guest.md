@@ -1,6 +1,7 @@
 ---
 name: Lauren Guest
 role_title:
-image:
+image: /images/staff_members/lauren-guest.jpg
 email:
 ---
+
