@@ -1,7 +1,7 @@
 ---
 name: Jun Huang
 role_title:
-image:
+image: /images/staff_members/jun2-2.jpeg
 email:
 ---
 
