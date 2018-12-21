@@ -5,4 +5,4 @@ image:
 email:
 ---
 
-DO Student
+![](/images/staff_members/mara.jpg)DO Student
