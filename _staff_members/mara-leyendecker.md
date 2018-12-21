@@ -1,8 +1,8 @@
 ---
 name: Mara Leyendecker
-role_title:
-image:
+role_title: D.O. Student
+image: /images/staff_members/mara-2.jpg
 email:
 ---
 
-![](/images/staff_members/mara-1.jpg)![](/images/staff_members/mara.jpg)DO Student
+DO Student
