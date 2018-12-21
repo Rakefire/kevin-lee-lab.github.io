@@ -5,4 +5,4 @@ image:
 email:
 ---
 
-PhD Graduate Student
+![](/images/staff_members/jun2.jpeg)PhD Graduate Student
