@@ -1,5 +1,13 @@
-<div class="member">
-  <div class="image"><img alt="{{ member.name }}" src="{{ site.baseurl }}{{member.image}}" /></div>
-  <h3>{{ member.name }}</h3>
-  <p>{{ member.role_title }}<br/><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
-</div>
+{% if member.past == false %}
+  <div class="member">
+    <div class="image"><img alt="{{ member.name }}" src="{{ site.baseurl }}{{member.image}}" /></div>
+    <h3>{{ member.name }}</h3>
+    <p>{{ member.role_title }}<br/><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
+  </div>
+{% else %}
+  <div class="member">
+    <h3>{{ member.name }}</h3>
+    <p>{{ member.role_title }} - {{ member.past_service }}</p>
+    <p>{{ member.content }}</p>
+  </div>
+{% endif %}
