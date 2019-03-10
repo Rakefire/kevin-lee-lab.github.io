@@ -5,7 +5,7 @@ collections:
 
 permalink: pretty
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
