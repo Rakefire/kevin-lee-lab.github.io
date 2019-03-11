@@ -7,4 +7,4 @@ past: true
 past_service: 2017-2018
 ---
 
-Currently, MD student at Ohio State Universit
+Currently, MD student at Ohio State University
